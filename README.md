@@ -48,7 +48,7 @@
 | <img src="app screenshots/Screenshot_20260522_211246_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211251_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211415_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211430_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> |
 | **Higher Priority** | **Closer Due Date** | **Work + Priority** | **Study + Priority** |
 | <img src="app screenshots/Screenshot_20260522_211541_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211637_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211640_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> | <img src="app screenshots/Screenshot_20260522_211222_com_example_to_do_app_flutter_MainActivity.jpg" width="160"/> |
-| **New Task Form** | **Task List** | **Swipe Delete** | **Search** |
+| **New Task Form** | **Task Drag & Drop** | **Swipe Delete** | **Search** |
 
 </div>
 
