@@ -47,8 +47,8 @@
 | **Home (All)** | **Active Filter** | **Done Filter** |
 | <img src="app screenshots/Screenshot_20260522_211237_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211246_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211251_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
 | **Starred Filter** | **Higher Priority** | **Closer Due Date** |
-| <img src="app screenshots/Screenshot_20260522_211415_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211430_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211541_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
-| **Work + Priority** | **Study + Priority** | **New Task Form** |
+| <img src="app screenshots/Screenshot_20260522_231413_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211430_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211541_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
+| **Stats Sheet** | **Work + Priority** | **New Task Form** |
 | <img src="app screenshots/Screenshot_20260522_211637_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211640_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211222_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
 | **Task List** | **Swipe Delete** | **Search** |
 
