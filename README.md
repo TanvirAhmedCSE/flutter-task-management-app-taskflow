@@ -50,7 +50,7 @@
 | <img src="app screenshots/Screenshot_20260522_231413_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211430_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211541_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
 | **Stats Sheet** | **Work + Priority** | **New Task Form** |
 | <img src="app screenshots/Screenshot_20260522_211637_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211640_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> | <img src="app screenshots/Screenshot_20260522_211222_com_example_to_do_app_flutter_MainActivity.jpg" width="220"/> |
-| **Task List** | **Swipe Delete** | **Search** |
+| **Task Drag & Drop** | **Swipe Delete** | **Search** |
 
 </div>
 
