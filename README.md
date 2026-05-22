@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-# 📋 TaskFlow - A Flutter Task Management App
+# TaskFlow - A Flutter Task Management App
 
 ### A clean, minimal task manager built with Flutter
 
@@ -19,7 +19,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Task Management** — Add, edit, delete tasks with title, description, priority, category, and due date
 - **6 Filter Tabs** — All · Active · Done · Starred · Higher Priority · Closer Due Date
@@ -37,7 +37,7 @@
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -96,7 +96,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -119,7 +119,7 @@ flutter run
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -132,7 +132,7 @@ dependencies:
 
 ---
 
-## 🎨 Design Decisions
+## Design Decisions
 
 - **Pure dark-warm palette** — Off-white `#F7F5F2` background with `#4F46A3` accent gives a calm, focused feel
 - **Priority stripe** — Left-edge colored stripe on each card gives instant priority feedback without cluttering the layout
@@ -142,7 +142,7 @@ dependencies:
 
 ---
 
-## 📄 License
+## License
 
 ```
 MIT License
